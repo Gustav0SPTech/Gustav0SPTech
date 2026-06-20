@@ -20,6 +20,16 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
+<div>
+<a href="https://github.com/Gustav0SPTech">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav0SPTech&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustav0SPTech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-costa-316273403/)
+
 <!--
 **Gustav0SPTech/Gustav0SPTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
