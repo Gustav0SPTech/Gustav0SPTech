@@ -4,7 +4,10 @@
 
 # 🏀 🎮 💻
 
+
 ### 🛠️ Tecnologias e Ferramentas
+
+<br/>
 
 🧬 **Front-end**
 <p align="left">
@@ -13,18 +16,28 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
+<br/>
+
 ⚙️ **Back-end & Banco de Dados**
+
+<br/>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
+<br/>
+<br/>
+
 <div>
 <a href="https://github.com/Gustav0SPTech">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav0SPTech&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustav0SPTech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+<br/>
 
 ## 📫 Vamos nos conectar?
 
