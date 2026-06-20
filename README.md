@@ -1,5 +1,8 @@
-# Gustavo Costa
-## Bem vindo ao meu perfil GitHub!!
+## Bem vindo ao meu perfil GitHub!
+
+<p>Me chamo Gustavo Costa, sou fascinado por esportes, games e programação! Atualmente estou no primeiro semestre de Ciência da Computação na São Paulo Tech School (SPTECH).</p>
+
+# 🏀 🎮 💻
 
 ### 🛠️ Tecnologias e Ferramentas
 
