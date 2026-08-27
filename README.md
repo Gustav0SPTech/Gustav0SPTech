@@ -1,8 +1,8 @@
-<p>let Gustav0SPTech = {
-  "nome" : "Gustavo Costa"
-  "faculdade" : "SPTech"
-  "skills" : ["Javascript", "MySQL", "Python", "Java", "AWS"]
-  "linguagem_preferida" : "Java?"
+<p>let Gustav0SPTech = {<br/>
+  "nome" : "Gustavo Costa"<br/>
+  "faculdade" : "SPTech"<br/>
+  "skills" : ["Javascript", "MySQL", "Python", "Java", "AWS"]<br/>
+  "linguagem_preferida" : "Java?"<br/>
 }</p>
 
 # 🏀 🎮 💻
