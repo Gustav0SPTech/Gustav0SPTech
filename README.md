@@ -1,6 +1,9 @@
-## Bem vindo ao meu perfil GitHub!
-
-<p>Me chamo Gustavo Costa, sou fascinado por esportes, games e programação! Atualmente estou no primeiro semestre de Ciência da Computação na São Paulo Tech School (SPTECH).</p>
+<p>let Gustav0SPTech = {
+  "nome" : "Gustavo Costa"
+  "faculdade" : "SPTech"
+  "skills" : ["Javascript", "MySQL", "Python", "Java", "AWS"]
+  "linguagem_preferida" : "Java?"
+}</p>
 
 # 🏀 🎮 💻
 
